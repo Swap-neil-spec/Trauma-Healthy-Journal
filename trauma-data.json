@@ -1,0 +1,27 @@
+{
+    "featured_articles": [
+      {
+        "title": "How to Recognize the Signs of Anxiety and Seek Help",
+        "author": "Jane Doe",
+        "date": "2022-01-15",
+        "image": "https://example.com/anxiety.jpg",
+        "summary": "Anxiety is a common mental health condition that affects millions of people worldwide. Learn about the signs of anxiety and how to seek help if you or someone you know is struggling with this condition."
+      },
+      {
+        "title": "The Importance of Self-Care for Mental Health",
+        "author": "John Smith",
+        "date": "2022-02-05",
+        "image": "https://example.com/self-care.jpg",
+        "summary": "Self-care is an essential aspect of maintaining good mental health. Learn about the benefits of self-care and some simple self-care practices you can incorporate into your daily routine."
+      },
+      {
+        "title": "Breaking the Stigma: Overcoming Mental Health Stereotypes",
+        "author": "Sarah Johnson",
+        "date": "2022-03-20",
+        "image": "https://example.com/stigma.jpg",
+        "summary": "Mental health stereotypes can prevent people from seeking help and contribute to the stigma surrounding mental health. Learn about how to overcome these stereotypes and support people who are struggling with mental health challenges."
+      }
+    ]
+  }
+  
+  
